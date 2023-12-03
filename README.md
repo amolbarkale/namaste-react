@@ -41,12 +41,17 @@
 
 # Two types of Export/Import
 
- - default Export/Import
+- default Export/Import
 
 export default Component
 import Component from 'path'
 
 -  Named Export/Import
-  
+
 export const Component
 import {Compoment} from 'path'
+
+# React Hooks
+    (noraml JS utility fuctions)
+    - useState() => Superpowerful varibale in react
+    - useEffect()
